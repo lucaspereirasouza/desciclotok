@@ -1,6 +1,6 @@
-# WikiTok
+# desciclotok
 
-A TikTok-style interface for exploring random Wikipedia articles in multiple languages.
+A TikTok-style interface for (trying to) explore random Wikipedia articles in multiple languages.
 
 ## Features
 
