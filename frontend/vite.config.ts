@@ -11,11 +11,11 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "WikiTok",
-        short_name: "WikiTok",
+        name: "DescicloTok",
+        short_name: "DescicloTok",
         icons: [
           {
-            src: "/wiki-logo.svg",
+            src: "/desciclo-logo.svg",
             sizes: "any",
             type: "image/svg+xml",
           },
