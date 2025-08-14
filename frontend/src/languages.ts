@@ -1,18 +1,25 @@
 export const LANGUAGES = [
-  // {
-  //   id: "en",
-  //   name: "English",
-  //   flag: "https://hatscripts.github.io/circle-flags/flags/us.svg",
-  //   api: "https://en.wikipedia.org/w/api.php?",
-  //   article: "https://en.wikipedia.org/wiki/",
-  // },
-  // {
-  //   id: "de",
-  //   name: "Deutsch",
-  //   flag: "https://hatscripts.github.io/circle-flags/flags/de.svg",
-  //   api: "https://de.wikipedia.org/w/api.php?",
-  //   article: "https://de.wikipedia.org/wiki/",
-  // },
+    {
+    id: "pt",
+    name: "Português",
+    flag: "https://hatscripts.github.io/circle-flags/flags/br.svg",
+    api: "https://desciclopedia.ws/api.php?",
+    article: "https://desciclopedia.ws/wiki/",
+  },
+  {
+    id: "en",
+    name: "English",
+    flag: "https://hatscripts.github.io/circle-flags/flags/us.svg",
+    api: "https://en.uncyclopedia.co/w/api.php?",
+    article: "https://en.uncyclopedia.co/wiki/",
+  },
+  {
+    id: "de",
+    name: "Deutsch",
+    flag: "https://hatscripts.github.io/circle-flags/flags/de.svg",
+    api: "https://de.uncyclopedia.co/w/api.php?",
+    article: "https://de.uncyclopedia.co/wiki",
+  },
   // {
   //   id: "fr",
   //   name: "Français",
@@ -20,20 +27,20 @@ export const LANGUAGES = [
   //   api: "https://fr.wikipedia.org/w/api.php?",
   //   article: "https://fr.wikipedia.org/wiki/",
   // },
-  // {
-  //   id: "es",
-  //   name: "Español",
-  //   flag: "https://hatscripts.github.io/circle-flags/flags/es.svg",
-  //   api: "https://es.wikipedia.org/w/api.php?",
-  //   article: "https://es.wikipedia.org/wiki/",
-  // },
-  // {
-  //   id: "it",
-  //   name: "Italiano",
-  //   flag: "https://hatscripts.github.io/circle-flags/flags/it.svg",
-  //   api: "https://it.wikipedia.org/w/api.php?",
-  //   article: "https://it.wikipedia.org/wiki/",
-  // },
+  {
+    id: "es",
+    name: "Español",
+    flag: "https://hatscripts.github.io/circle-flags/flags/es.svg",
+    api: "https://inciclopedia.org/w/api.php?",
+    article: "https://inciclopedia.org/wiki/",
+  },
+  {
+    id: "it",
+    name: "Italiano",
+    flag: "https://hatscripts.github.io/circle-flags/flags/it.svg",
+    api: "https://absurdopedia.net/w/api.php?",
+    article: "https://absurdopedia.net/wiki/",
+  }
   // {
   //   id: "uk",
   //   name: "Українська",
@@ -41,13 +48,7 @@ export const LANGUAGES = [
   //   api: "https://uk.wikipedia.org/w/api.php?",
   //   article: "https://uk.wikipedia.org/wiki/",
   // },
-  {
-    id: "pt",
-    name: "Português",
-    flag: "https://hatscripts.github.io/circle-flags/flags/br.svg",
-    api: "https://desciclopedia.ws/api.php?",
-    article: "https://desciclopedia.ws/wiki/",
-  }
+
   // ,
   // {
   //   id: "ru",
