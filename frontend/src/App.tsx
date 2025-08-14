@@ -75,7 +75,7 @@ function App() {
           onClick={() => window.location.reload()}
           className="text-2xl font-bold text-white drop-shadow-lg hover:opacity-80 transition-opacity"
         >
-          WikiTok
+          DescicloTok
         </button>
       </div>
 
