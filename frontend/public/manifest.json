@@ -1,9 +1,9 @@
 {
-	"short_name": "WikiTok",
-	"name": "WikiTok",
+	"short_name": "Desciclotok",
+	"name": "Desciclotok",
 	"icons": [
 		{
-		"src": "wiki-logo.svg",
+		"src": "desciclo-logo.svg",
 		"sizes": "any",
 		"type": "image/svg+xml"
 		}
